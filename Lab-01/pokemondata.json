@@ -1,0 +1,5 @@
+[
+  { "name": "Pikachu", "move1": "Electroweb", "move2": "Thunderbolt" },
+  { "name": "Charizard", "move1": "Flamethrower", "move2": "Sismic Toss" },
+  { "name": "Blastoise", "move1": "Watergun", "move2": "Iron, Head" }
+]

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<pokemons>
+    <pokemon>
+        <name>Pikachu</name>
+        <move1>Electroweb</move1>
+        <move2>Thunderbolt</move2>
+    </pokemon>
+    <pokemon>
+        <name>Charizard</name>
+        <move1>Flamethrower</move1>
+        <move2>Sismic Toss</move2>
+    </pokemon>
+    <pokemon>
+        <name>Blastoise</name>
+        <move1>Watergun</move1>
+        <move2>Iron, Head</move2>
+    </pokemon>
+</pokemons>
